@@ -1,0 +1,33 @@
+#include <iostream>
+#include <cstdio>
+#include <iomanip>
+#include <cmath>
+const double N=5;
+double  raiz1(double m,double n,double p){
+  double raiz=0,dis=0;
+  dis=pow(n,2)-4*m*p;
+  raiz=(-m+pow(dis,0.5))/2*m
+  return raiz;
+}
+double  raiz2(double n){
+  
+}
+double  raiz3(double n)
+
+{
+  
+}
+
+double  raiz4(double n){
+
+  
+}
+int main(){
+  std::cout.precision(11);
+  std::cout.setf(std::ios::scientific);
+  double a=1,b=0,c=-1;
+  raiz1(a,b,c);
+    return 0;
+}
+
+
